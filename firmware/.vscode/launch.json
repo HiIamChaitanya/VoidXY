@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/chaitanya/software-development/3d-printer-project/MKS-TinyBee-main/firmware/mks tinybee marlin",
-      "program": "/home/chaitanya/software-development/3d-printer-project/MKS-TinyBee-main/firmware/mks tinybee marlin/build/Debug/outDebug",
+      "cwd": "/home/chaitanya/Software-Development/3D Cube - 3D Printer/3d-printer-project/3DCube/firmware",
+      "program": "/home/chaitanya/Software-Development/3D Cube - 3D Printer/3d-printer-project/3DCube/firmware/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
