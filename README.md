@@ -1,5 +1,4 @@
-
-# 3D Cube
+<h1 align='center'>3D Cube </h1>
 
 3DCube is CoreXY 3D Printer. The printer uses a pulley system for XY Axis
 
@@ -30,7 +29,4 @@ https://github.com/HiIamChaitanya/3DCube/tree/6b68c5e50fdd12f2b18d0b3d715e3e0b60
 https://github.com/HiIamChaitanya/3DCube/tree/firmware
 ```
 
-
-this post will be updated soon
-
-
+this docs will be updated soon
