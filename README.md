@@ -1,16 +1,16 @@
-<h1 align='center'>3D Cube </h1>
+<h1 align='center'>VoidXY</h1>
 
-3DCube is CoreXY 3D Printer. The printer uses a pulley system for XY Axis
+VoidXY is CoreXY 3D Printer. The printer uses a pulley system for XY Axis
 
-GitHub Repository - ```https://github.com/HiIamChaitanya/3DCube```
+GitHub Repository - ```https://github.com/HiIamChaitanya/VoidXY```
 
-<h2 align='center'>About 3DCube</h2>
+<h2 align='center'>About VoidXY</h2>
 
-3DCube is CoreXY 3d Printer
+VoidXY is CoreXY 3d Printer
 
 <h2 align='center'>Bill of Material</h2>
 ```
-https://github.com/HiIamChaitanya/3DCube/blob/main/BOM.md
+https://github.com/HiIamChaitanya/VoidXY/blob/main/BOM.md
 ```
 <h2 align='center'>SLT files File Structure to be Printed</h2>
 
@@ -20,13 +20,13 @@ https://github.com/HiIamChaitanya/3DCube/blob/main/BOM.md
 - Parts
 
 ```
-https://github.com/HiIamChaitanya/3DCube/tree/6b68c5e50fdd12f2b18d0b3d715e3e0b60987e3b/STL%20FIles
+https://github.com/HiIamChaitanya/VoidXY/tree/6b68c5e50fdd12f2b18d0b3d715e3e0b60987e3b/STL%20FIles
 ```
 
 <h2 align='center'>Firmware - Marlin V2</h2>
 
 ```
-https://github.com/HiIamChaitanya/3DCube/tree/firmware
+https://github.com/HiIamChaitanya/VoidXY/tree/firmware
 ```
 
-this docs will be updated soon
+ Documentation will be updated soon
